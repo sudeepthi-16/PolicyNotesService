@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sudee\\Downloads\\gitclass\\Chubb-Assignments\\Week-2\\PolicyNotesService.Tests\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{43557653-8880-234E-6A7E-50BB7D033EC6}|PolicyNotesService.Tests.csproj|c:\\users\\sudee\\downloads\\gitclass\\chubb-assignments\\week-2\\policynotesservice.tests\\policynotesservice.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{43557653-8880-234E-6A7E-50BB7D033EC6}|PolicyNotesService.Tests.csproj|solutionrelative:policynotesservice.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{003C9636-E542-95FC-006A-7F44B1DE0FD1}|..\\PolicyNotesService\\PolicyNotesService.csproj|c:\\users\\sudee\\downloads\\gitclass\\chubb-assignments\\week-2\\policynotesservice\\policynotesservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43557653-8880-234E-6A7E-50BB7D033EC6}|PolicyNotesService.Tests.csproj|c:\\users\\sudee\\downloads\\gitclass\\chubb-assignments\\week-2\\policynotesservice.tests\\integration\\notesapitests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43557653-8880-234E-6A7E-50BB7D033EC6}|PolicyNotesService.Tests.csproj|solutionrelative:integration\\notesapitests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43557653-8880-234E-6A7E-50BB7D033EC6}|PolicyNotesService.Tests.csproj|c:\\users\\sudee\\downloads\\gitclass\\chubb-assignments\\week-2\\policynotesservice.tests\\policynotesservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43557653-8880-234E-6A7E-50BB7D033EC6}|PolicyNotesService.Tests.csproj|solutionrelative:policynotesservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PolicyNotesService",
+              "DocumentMoniker": "C:\\Users\\sudee\\Downloads\\gitclass\\Chubb-Assignments\\Week-2\\PolicyNotesService\\PolicyNotesService.csproj",
+              "RelativeDocumentMoniker": "..\\PolicyNotesService\\PolicyNotesService.csproj",
+              "ToolTip": "C:\\Users\\sudee\\Downloads\\gitclass\\Chubb-Assignments\\Week-2\\PolicyNotesService\\PolicyNotesService.csproj",
+              "RelativeToolTip": "..\\PolicyNotesService\\PolicyNotesService.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-22T20:52:57.584Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NotesApiTests.cs",
+              "DocumentMoniker": "C:\\Users\\sudee\\Downloads\\gitclass\\Chubb-Assignments\\Week-2\\PolicyNotesService.Tests\\Integration\\NotesApiTests.cs",
+              "RelativeDocumentMoniker": "Integration\\NotesApiTests.cs",
+              "ToolTip": "C:\\Users\\sudee\\Downloads\\gitclass\\Chubb-Assignments\\Week-2\\PolicyNotesService.Tests\\Integration\\NotesApiTests.cs",
+              "RelativeToolTip": "Integration\\NotesApiTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-22T20:13:49.206Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PolicyNotesServiceTests.cs",
+              "DocumentMoniker": "C:\\Users\\sudee\\Downloads\\gitclass\\Chubb-Assignments\\Week-2\\PolicyNotesService.Tests\\PolicyNotesServiceTests.cs",
+              "RelativeDocumentMoniker": "PolicyNotesServiceTests.cs",
+              "ToolTip": "C:\\Users\\sudee\\Downloads\\gitclass\\Chubb-Assignments\\Week-2\\PolicyNotesService.Tests\\PolicyNotesServiceTests.cs",
+              "RelativeToolTip": "PolicyNotesServiceTests.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAQwCkAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-22T19:45:58.018Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PolicyNotesService.Tests",
+              "DocumentMoniker": "C:\\Users\\sudee\\Downloads\\gitclass\\Chubb-Assignments\\Week-2\\PolicyNotesService.Tests\\PolicyNotesService.Tests.csproj",
+              "RelativeDocumentMoniker": "PolicyNotesService.Tests.csproj",
+              "ToolTip": "C:\\Users\\sudee\\Downloads\\gitclass\\Chubb-Assignments\\Week-2\\PolicyNotesService.Tests\\PolicyNotesService.Tests.csproj",
+              "RelativeToolTip": "PolicyNotesService.Tests.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-22T19:55:23.47Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
